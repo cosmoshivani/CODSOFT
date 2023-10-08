@@ -15,6 +15,4 @@ Here you can see theh screenshots of all the codes tested in the compiler:
 
 3. 
 
-4. 
 
-5. 
