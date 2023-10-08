@@ -1,7 +1,7 @@
 # CODSOFT
 My solutions to the tasks 
 
-Here you can see theh screenshots of all the codes tested in the compiler:
+Here you can see the screenshots of all the codes tested in the compiler:
 
 ## **1. Number Guessing Game**
 
